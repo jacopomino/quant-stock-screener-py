@@ -30,12 +30,11 @@ Ensure your folders are organized as follows before running the script:
 ```text
 .
 ├── azioniDaComprare.py       # Main Application Script
-├── azioni/
-│   ├── CSVInput/
-│   │   └── etf.csv           # Input file (Ticker, Name)
-│   └── CSVOutput/
-│       ├── etfDaComprare.csv # Generated Results
-│       └── etf_log.txt       # Execution Log
+├── CSVInput/
+│     └── etf.csv           # Input file (Ticker, Name)
+├── CSVOutput/
+│     ├── etfDaComprare.csv # Generated Results
+│     └── etf_log.txt       # Execution Log
 ```
 
 ## 💡 The Strategy
