@@ -1,0 +1,134 @@
+ticker,nome
+A2A.MI,A2A
+AMP.MI,Amplifon
+AZM.MI,Azimut
+BMED.MI,Banca Mediolanum
+BAMI.MI,Banco BPM
+BPE.MI,BPER Banca
+BC.MI,Brunello Cucinelli
+BZU.MI,Buzzi Unicem
+CPR.MI,Campari
+DIA.MI,Diasorin
+ENEL.MI,Enel
+ENI.MI,Eni
+RACE.MI,Ferrari
+FBK.MI,FinecoBank
+G.MI,Generali
+HER.MI,Hera
+IP.MI,Interpump
+ISP.MI,Intesa Sanpaolo
+INW.MI,Inwit
+IG.MI,Italgas
+IVG.MI,Iveco Group
+LDO.MI,Leonardo
+MB.MI,Mediobanca
+MONC.MI,Moncler
+NEXI.MI,Nexi
+PIRC.MI,Pirelli & C.
+PST.MI,Poste Italiane
+PRY.MI,Prysmian
+REC.MI,Recordati
+SPM.MI,Saipem
+SRG.MI,Snam
+STLA.MI,Stellantis
+STM.MI,STMicroelectronics
+TIT.MI,Telecom Italia
+TEN.MI,Tenaris
+TRN.MI,Terna
+UCG.MI,UniCredit
+UNI.MI,Unipol
+AI.PA,Air Liquide
+AIR.PA,Airbus
+ALO.PA,Alstom
+MT.PA,ArcelorMittal
+CS.PA,AXA
+BNP.PA,BNP Paribas
+EN.PA,Bouygues
+CAP.PA,Capgemini
+CA.PA,Carrefour
+ACA.PA,Crédit Agricole
+BN.PA,Danone
+DSY.PA,Dassault Systèmes
+EDEN.PA,Edenred
+ENGI.PA,Engie
+EL.PA,EssilorLuxottica
+ERF.PA,Eurofins Scientific
+RMS.PA,Hermès
+KER.PA,Kering
+LR.PA,Legrand
+OR.PA,L’Oréal
+MC.PA,LVMH
+ML.PA,Michelin
+ORA.PA,Orange
+RI.PA,Pernod Ricard
+PUB.PA,Publicis
+RNO.PA,Renault
+SAF.PA,Safran
+SGO.PA,Saint-Gobain
+SAN.PA,Sanofi
+SU.PA,Schneider Electric
+GLE.PA,Société Générale
+STLA.PA,Stellantis
+STM.PA,STMicroelectronics
+HO.PA,Thales
+TEP.PA,Teleperformance
+TTE.PA,TotalEnergies
+UL.PA,Unibail-Rodamco
+VIE.PA,Veolia Environnement
+DG.PA,Vinci
+WLN.PA,Worldline
+ADS.DE,Adidas
+AIR.DE,Airbus
+ALV.DE,Allianz
+BAS.DE,BASF
+BAYN.DE,Bayer
+BEI.DE,Beiersdorf
+BMW.DE,BMW
+BNR.DE,Brenntag
+CON.DE,Continental
+1COV.DE,Covestro
+DHER.DE,Delivery Hero
+DPW.DE,Deutsche Post
+DBK.DE,Deutsche Bank
+DTE.DE,Deutsche Telekom
+EOAN.DE,E.ON
+FME.DE,Fresenius Medical Care
+FRE.DE,Fresenius SE
+HEI.DE,Heidelberg Materials
+HEN3.DE,Henkel
+IFX.DE,Infineon
+HNR1.DE,Hannover Re
+LIN.DE,Linde
+MRK.DE,Merck KGaA
+MBG.DE,Mercedes-Benz Group
+MUV2.DE,Munich Re
+P911.DE,Porsche AG
+PUM.DE,Puma
+QIA.DE,Qiagen
+RWE.DE,RWE
+SAP.DE,SAP
+SRT3.DE,Sartorius
+SIE.DE,Siemens
+SHL.DE,Siemens Healthineers
+SY1.DE,Symrise
+VNA.DE,Vonovia
+VOW3.DE,Volkswagen
+ZAL.DE,Zalando
+MTX.DE,MTU Aero Engines
+HEL.DE,HelloFresh
+ASML.AS,ASML Holding
+IBE.MC,Iberdrola
+ITX.MC,Inditex
+ALLIANZ.DE,Allianz
+AD.AS,Ahold Delhaize
+IBE.BC,Iberdrola
+BBVA.MC,BBVA
+TEF.MC,Telefónica
+FER.MC,Ferrovial
+MAP.MC,Mapfre
+REP.MC,Repsol
+SGE.PA,Société Générale
+CRG.IR,CRH plc
+ESSITY-B.ST,Essity
+NOKIA.HE,Nokia
+ERIC-B.ST,Ericsson

@@ -1,0 +1,16 @@
+2025-11-03 15:18:14,736 - INFO - === Avvio analisi ETF ===
+2025-11-03 15:20:06,071 - WARNING - Nessun dato per ATVI
+2025-11-03 15:21:39,968 - WARNING - Nessun dato per SGEN
+2025-11-03 15:22:31,965 - WARNING - Nessun dato per WBA
+2025-11-03 15:22:35,673 - WARNING - Nessun dato per ANSS
+2025-11-03 15:23:20,762 - INFO - File ordinato e pulito con successo.
+2025-11-05 15:36:09,132 - INFO - === Avvio analisi tickers100 ===
+2025-11-05 15:36:15,882 - INFO - File ordinato e pulito con successo.
+2025-11-12 11:06:30,288 - INFO - === Avvio analisi tickers100 ===
+2025-11-12 11:06:35,123 - INFO - File ordinato e pulito con successo.
+2025-11-21 09:30:48,301 - INFO - === Avvio analisi tickers100 ===
+2025-11-21 09:30:53,960 - INFO - File ordinato e pulito con successo.
+2025-11-24 09:45:02,493 - INFO - === Avvio analisi tickers100 ===
+2025-11-24 09:45:08,350 - INFO - File ordinato e pulito con successo.
+2025-11-24 10:16:44,741 - INFO - === Avvio analisi tickers100 ===
+2025-11-24 10:16:50,244 - INFO - File ordinato e pulito con successo.

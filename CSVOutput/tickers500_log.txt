@@ -1,0 +1,48 @@
+2025-11-03 16:04:57,605 - INFO - === Avvio analisi tickers500 ===
+2025-11-03 16:05:14,109 - ERROR - Errore con FB: 'Segnale_Acquisto'
+2025-11-03 16:05:20,103 - INFO - File ordinato e pulito con successo.
+2025-11-05 15:33:43,739 - INFO - === Avvio analisi tickers500 ===
+2025-11-05 15:33:59,070 - ERROR - Errore con FB: 'Segnale_Acquisto'
+2025-11-05 15:33:59,916 - ERROR - Errore con INFO: 'Segnale_Acquisto'
+2025-11-05 15:34:03,883 - INFO - File ordinato e pulito con successo.
+2025-11-08 16:46:35,825 - INFO - === Avvio analisi tickers500 ===
+2025-11-08 16:47:35,242 - ERROR - Errore con FB: 'Segnale_Acquisto'
+2025-11-08 16:47:49,703 - INFO - File ordinato e pulito con successo.
+2025-11-08 17:04:33,552 - INFO - === Avvio analisi tickers500 ===
+2025-11-08 17:04:46,770 - ERROR - Errore con FB: 'Segnale_Acquisto'
+2025-11-08 17:04:52,346 - INFO - File ordinato e pulito con successo.
+2025-11-08 17:07:43,874 - INFO - === Avvio analisi tickers500 ===
+2025-11-08 17:07:57,564 - ERROR - Errore con FB: 'Segnale_Acquisto'
+2025-11-08 17:08:03,419 - INFO - File ordinato e pulito con successo.
+2025-11-08 17:08:30,552 - INFO - === Avvio analisi tickers500 ===
+2025-11-08 17:08:43,300 - ERROR - Errore con FB: 'Segnale_Acquisto'
+2025-11-08 17:08:49,223 - INFO - File ordinato e pulito con successo.
+2025-11-08 17:09:28,878 - INFO - === Avvio analisi tickers500 ===
+2025-11-08 17:09:43,681 - ERROR - Errore con FB: 'Segnale_Acquisto'
+2025-11-08 17:09:49,284 - INFO - File ordinato e pulito con successo.
+2025-11-08 17:12:47,487 - INFO - === Avvio analisi tickers500 ===
+2025-11-08 17:12:59,865 - ERROR - Errore con FB: 'Segnale_Acquisto'
+2025-11-08 17:13:00,619 - ERROR - Errore con INFO: 'Segnale_Acquisto'
+2025-11-08 17:13:04,108 - INFO - File ordinato e pulito con successo.
+2025-11-08 17:13:24,509 - INFO - === Avvio analisi tickers500 ===
+2025-11-08 17:13:37,658 - ERROR - Errore con FB: 'Segnale_Acquisto'
+2025-11-08 17:13:43,109 - INFO - File ordinato e pulito con successo.
+2025-11-08 17:14:34,482 - INFO - === Avvio analisi tickers500 ===
+2025-11-08 17:14:48,913 - ERROR - Errore con FB: 'Segnale_Acquisto'
+2025-11-08 17:14:54,743 - INFO - File ordinato e pulito con successo.
+2025-11-12 11:11:25,129 - INFO - === Avvio analisi tickers500 ===
+2025-11-12 11:11:38,431 - ERROR - Errore con FB: 'Segnale_Acquisto'
+2025-11-12 11:11:44,724 - INFO - File ordinato e pulito con successo.
+2025-11-21 09:34:31,234 - INFO - === Avvio analisi tickers500 ===
+2025-11-21 09:34:45,622 - ERROR - Errore con FB: 'Segnale_Acquisto'
+2025-11-21 09:34:54,611 - INFO - File ordinato e pulito con successo.
+2025-11-24 09:21:57,929 - INFO - === Avvio analisi tickers500 ===
+2025-11-24 09:22:13,176 - ERROR - Errore con FB: 'Segnale_Acquisto'
+2025-11-24 09:22:19,660 - INFO - File ordinato e pulito con successo.
+2025-11-24 10:15:59,636 - INFO - === Avvio analisi tickers500 ===
+2025-11-24 10:16:14,914 - ERROR - Errore con FB: 'Segnale_Acquisto'
+2025-11-24 10:16:15,806 - ERROR - Errore con INFO: 'Segnale_Acquisto'
+2025-11-24 10:16:19,920 - INFO - File ordinato e pulito con successo.
+2025-11-27 09:52:50,553 - INFO - === Avvio analisi tickers500 ===
+2025-11-27 09:53:05,455 - ERROR - Errore con FB: 'Segnale_Acquisto'
+2025-11-27 09:53:12,637 - INFO - File ordinato e pulito con successo.

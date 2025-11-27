@@ -1,0 +1,14 @@
+2025-11-05 10:32:50,774 - INFO - === Avvio analisi valute ===
+2025-11-05 10:32:53,314 - ERROR - Nessun dato disponibile da YahooQuery.
+2025-11-05 10:40:46,863 - INFO - === Avvio analisi valute ===
+2025-11-05 10:40:50,075 - INFO - File ordinato e pulito con successo.
+2025-11-05 15:46:46,001 - INFO - === Avvio analisi valute ===
+2025-11-05 15:46:49,022 - INFO - File ordinato e pulito con successo.
+2025-11-12 11:15:33,630 - INFO - === Avvio analisi valute ===
+2025-11-12 11:15:35,797 - INFO - File ordinato e pulito con successo.
+2025-11-21 09:40:56,990 - INFO - === Avvio analisi valute ===
+2025-11-21 09:40:59,958 - INFO - File ordinato e pulito con successo.
+2025-11-24 09:48:32,095 - INFO - === Avvio analisi valute ===
+2025-11-24 09:48:35,064 - INFO - File ordinato e pulito con successo.
+2025-11-24 09:49:27,559 - INFO - === Avvio analisi valute ===
+2025-11-24 09:49:30,334 - INFO - File ordinato e pulito con successo.

@@ -1,0 +1,16 @@
+2025-11-03 16:02:07,944 - INFO - === Avvio analisi tickersEurope ===
+2025-11-03 16:02:17,404 - INFO - File ordinato e pulito con successo.
+2025-11-12 11:13:23,092 - INFO - === Avvio analisi tickersEurope ===
+2025-11-12 11:13:28,087 - INFO - File ordinato e pulito con successo.
+2025-11-21 09:39:03,841 - INFO - === Avvio analisi tickersEurope ===
+2025-11-21 09:39:10,768 - INFO - File ordinato e pulito con successo.
+2025-11-24 09:47:01,597 - INFO - === Avvio analisi tickersEurope ===
+2025-11-24 09:47:08,857 - INFO - File ordinato e pulito con successo.
+2025-11-24 10:17:29,784 - INFO - === Avvio analisi tickersEurope ===
+2025-11-24 10:17:36,501 - ERROR - Errore con UL.PA: 'Segnale_Acquisto'
+2025-11-24 10:17:36,606 - INFO - File ordinato e pulito con successo.
+2025-11-27 09:43:33,310 - INFO - === Avvio analisi tickersEurope ===
+2025-11-27 09:43:40,499 - ERROR - Errore con UL.PA: 'Segnale_Acquisto'
+2025-11-27 09:43:40,667 - INFO - File ordinato e pulito con successo.
+2025-11-27 09:52:15,231 - INFO - === Avvio analisi tickersEurope ===
+2025-11-27 09:52:22,029 - INFO - File ordinato e pulito con successo.

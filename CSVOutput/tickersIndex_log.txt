@@ -1,0 +1,16 @@
+2025-11-03 15:14:39,496 - INFO - === Avvio analisi ETF ===
+2025-11-03 15:16:13,761 - INFO - File ordinato e pulito con successo.
+2025-11-05 15:46:08,490 - INFO - === Avvio analisi tickersIndex ===
+2025-11-05 15:46:13,559 - INFO - File ordinato e pulito con successo.
+2025-11-08 16:45:58,163 - INFO - === Avvio analisi tickersIndex ===
+2025-11-08 16:46:07,969 - INFO - File ordinato e pulito con successo.
+2025-11-12 11:12:55,988 - INFO - === Avvio analisi tickersIndex ===
+2025-11-12 11:12:58,207 - INFO - File ordinato e pulito con successo.
+2025-11-21 09:21:56,454 - INFO - === Avvio analisi tickersIndex ===
+2025-11-21 09:22:01,409 - INFO - File ordinato e pulito con successo.
+2025-11-24 09:48:06,708 - INFO - === Avvio analisi tickersIndex ===
+2025-11-24 09:48:10,330 - INFO - File ordinato e pulito con successo.
+2025-11-24 10:18:57,637 - INFO - === Avvio analisi tickersIndex ===
+2025-11-24 10:19:01,209 - INFO - File ordinato e pulito con successo.
+2025-11-27 09:54:11,706 - INFO - === Avvio analisi tickersIndex ===
+2025-11-27 09:54:17,157 - INFO - File ordinato e pulito con successo.
