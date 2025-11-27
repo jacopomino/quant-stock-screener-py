@@ -7,8 +7,8 @@ from pathlib import Path
 
 # === CONFIGURAZIONE ===
 NOME_FILE = "etf"  # Nome base dei file CSV
-PERCORSO_INPUT = Path("azioni/CSVInput")
-PERCORSO_OUTPUT = Path("azioni/CSVOutput")
+PERCORSO_INPUT = Path("CSVInput")
+PERCORSO_OUTPUT = Path("CSVOutput")
 PERCORSO_OUTPUT.mkdir(parents=True, exist_ok=True)
 
 FILE_INPUT = PERCORSO_INPUT / f"{NOME_FILE}.csv"
@@ -137,3 +137,4 @@ except Exception as e:
 print("✅ Analisi completata.")
 print(f"📊 File salvato in: {FILE_OUTPUT}")
 print(f"🪵 Log dettagliato: {FILE_LOG}")
+
